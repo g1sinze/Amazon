@@ -1,0 +1,287 @@
+.logo
+{
+    width: 100%;
+    height: 70px;
+    background-color: #131A22;
+}
+
+.logo img{
+    width: 120px;
+     margin-top: 1%;
+     margin-left: 2%;
+}
+
+.address
+{
+    color: rgb(255, 255, 255);
+    margin-top: -8%;
+    margin-left: 14%;
+    position: absolute;
+}
+
+.address ion-icon
+{
+    color: rgb(255, 255, 255);
+    width: 30px;
+    height: 20px;
+    margin-left: -40px;
+    margin-top: 80px;
+}
+
+.hello{
+    color: rgb(255, 255, 255);
+    margin-top: -3.3%;
+    margin-left: 13%;
+}
+
+/* / pr/// */
+.search{
+    height: 40px;
+    width: 800px;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 100px;
+   
+}
+
+.btn.btn-light.all{
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 30px;
+    font-size: 13px;
+    color: gray;
+    border-radius: 6px 0px 0px 6px;
+    padding-bottom: 8.5px;
+    position: absolute;
+    margin-top: 0px;
+
+   
+}
+.tgl ion-icon{
+    color: gray;
+    margin-top: 4px;
+    margin-left: 4px;
+    position: absolute;
+}
+.input input{
+    position: absolute;
+    margin-top: 0px;
+    padding: 1%;
+    margin-left: 55px;
+    border: none;
+    width: 700px;
+   
+
+}
+
+.search-btn{
+    margin-left: 755px;
+    position: absolute;
+   
+}
+.btn.btn-warning{
+    padding: 34px;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 30px;
+    border-radius: 0px 6px 6px 0px;
+}
+.search-btn ion-icon{
+   font-size: 30px;
+   position: absolute;
+   margin-top: -30px;
+   margin-left: -8px;
+}
+
+
+/* .search{
+    height: 40px;
+    width: 800px;
+    position: relative;
+    margin-top: -45px;
+    margin-left: 100px;
+   
+}
+
+.btn.btn-light.all{
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 30px;
+    font-size: 13px;
+    color: gray;
+    border-radius: 6px 0px 0px 6px;
+    padding-bottom: 8.5px;
+    position: absolute;
+    margin-top: 0px;
+
+   
+}
+.tgl ion-icon{
+    color: gray;
+    margin-top: 4px;
+    margin-left: 4px;
+    position: absolute;
+}
+.input input{
+    position: absolute;
+    margin-top: 0px;
+    padding: 1%;
+    margin-left: 55px;
+    border: none;
+    width: 700px;
+   
+
+}
+
+.search-btn{
+    margin-left: 755px;
+    position: absolute;
+   
+}
+.btn.btn-warning{
+    padding: 34px;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 30px;
+    border-radius: 0px 6px 6px 0px;
+}
+.search-btn ion-icon{
+   font-size: 30px;
+   position: absolute;
+   margin-top: -30px;
+   margin-left: -8px;
+} */
+
+
+ .seabox{
+    width: 5%;
+    height: 52px;
+    background-color: rgb(192, 124, 0);
+    margin-left: 62%;
+    margin-top: -3.8%;
+    border-radius: 15%;
+ }
+
+ .icon{
+    color: rgb(0, 0, 0);
+    margin-left: 64%;
+    margin-top: -3%;
+ }
+
+ .all{
+    margin-top: -4%;
+    margin-left: 14%;
+ }
+
+ .snav{
+    width: 100%;
+    height: 10px;
+    color: rgb(0, 255, 255);
+    margin-left: 62%;
+    margin-top: 10%;
+    border-radius: 15%;
+ }
+
+ .flag{
+    margin-top: -2.8%;
+    margin-left: 69%;
+ }
+
+ .navb{
+     background-color: #232f3e;
+     margin-top: 2.9%;
+     margin-left: -20%;
+     width: 120%;
+     height: 50px;
+ }
+
+ .menulist{
+    height: 40px;
+    width: 50px;
+    background-color: rgb(160, 160, 160);
+    margin-top: -6.4%;
+    margin-left: 9.8%;
+    position: absolute;
+    border-radius: 6px 0px 0px 6px;
+
+ }
+
+ .menulist h6{
+    margin-top: 20%;
+    margin-left: 30%;
+ }
+
+ .list{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    list-style: none;
+    display: flex;
+    padding-right: 0.1px;
+    margin-top: -35px;
+    margin-left: 3%;
+    white-space: nowrap;
+    font-size: 90%;
+
+ }
+
+ .list h5{
+    margin-left: 5%;
+    margin-top: -0.2%;
+ }
+
+ .list li{
+    margin-left: 25px;
+ }
+
+ .img{
+    margin-left: -20%;
+    width: 100%;
+ }
+
+ .simg{
+    background-color: rgb(255, 255, 255);
+    width: 23%;
+    height: 45%;
+    margin-top: -24%;
+    margin-left: 5%;
+    border-radius: 1%;
+    position: absolute;
+
+ }
+
+ .simg img{
+    width: 100px;
+ }
+
+ .simg2{
+    background-color: rgb(255, 255, 255);
+    width: 23%;
+    height: 45%;
+    margin-top: -24%;
+    margin-left: 30%;
+    border-radius: 1%;
+    position: absolute;
+
+ }
+
+ .simg3{
+    background-color: rgb(255, 255, 255);
+    width: 23%;
+    height: 45%;
+    margin-top: -24%;
+    margin-left: 55%;
+    border-radius: 1%;
+    position: absolute;
+
+ }
+
+ .simg4{
+    background-color: rgb(255, 255, 255);
+    width: 23%;
+    height: 45%;
+    margin-top: -24%;
+    margin-left: 80%;
+    border-radius: 1%;
+    position: absolute;
+
+ }
